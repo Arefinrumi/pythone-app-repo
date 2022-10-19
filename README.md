@@ -1,4 +1,4 @@
-# python-app-jenkinsfile
+# CI/CD pipeline using Jenkins
 
 
 ## Requirements:
